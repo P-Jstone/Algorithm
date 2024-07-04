@@ -8,7 +8,8 @@ package main
 
 // @lc code=start
 func search(nums []int, target int) int {
-	l, r, mid := 0, len(nums), (L+r)/2
+	l, r := 0, len(nums)
+	mid := (l + r) / 2
 	for l < r {
 		if nums[mid] == target {
 			return mid
