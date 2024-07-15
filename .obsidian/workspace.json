@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Array/双指针/双指针.md",
+                "file": "Array/螺旋矩阵/螺旋矩阵.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "127769feec03f1d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Array/螺旋矩阵/螺旋矩阵.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1fe48f1b72cdd70f",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Array/双指针/双指针.md",
+                "file": "Array/螺旋矩阵/螺旋矩阵.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Array/双指针/双指针.md",
+                "file": "Array/螺旋矩阵/螺旋矩阵.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Array/双指针/双指针.md"
+                "file": "Array/螺旋矩阵/螺旋矩阵.md"
               }
             }
           }
@@ -135,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,22 +161,25 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "cf276e2e0d049a67",
+  "active": "127769feec03f1d7",
   "lastOpenFiles": [
-    "__debug_bin3326689513.exe",
-    "__debug_bin4258297140.exe",
-    "977.有序数组的平方.go",
-    "Array/双指针/27.移除元素.go",
+    "Array/螺旋矩阵/螺旋矩阵II.png",
+    "Array/螺旋矩阵/螺旋矩阵.md",
+    "Excalidraw/Drawing 2024-07-14 03.11.55.excalidraw.md",
+    "Excalidraw",
+    "Array/螺旋矩阵/59.螺旋矩阵-ii.go",
+    "Array/滑动窗口/滑动窗口.md",
+    "595.大的国家.go",
     "Excalidraw/Drawing 2024-07-06 13.23.47.excalidraw.md",
-    "Array/双指针/双指针.md",
+    "Array/螺旋矩阵",
+    "__debug_bin3509920701.exe",
+    "__debug_bin1394668570.exe",
+    "59.螺旋矩阵-ii.go",
+    "Array/滑动窗口/209.长度最小的子数组.go",
     "Array/二分查找/二分查找.md",
-    "__debug_bin825243363.exe",
-    "__debug_bin3926180063.exe",
-    "__debug_bin2120911163.exe",
-    "__debug_bin1027728932.exe",
-    "__debug_bin2164296156.exe",
-    "27.移除元素.go",
-    "main.go",
+    "Array/双指针/双指针.md",
+    "Array/滑动窗口",
+    "__debug_bin581705598.exe",
     "Array/二分查找.md",
     "Array/二分查找.canvas",
     "Pasted image 20240706134657.png",
