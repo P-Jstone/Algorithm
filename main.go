@@ -1,8 +1,16 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+
+	linkedlist "github.com/P-Jstone/Algorithm/Linkedlist"
+)
 
 func main() {
-	matrix := generateMatrix(4)
-	fmt.Println(matrix)
+	ll := &linkedlist.ListNode{
+		Val:  1,
+		Next: nil,
+	}
+	res := linkedlist.RemoveNthFromEnd(ll, 1)
+	fmt.Println(res)
 }

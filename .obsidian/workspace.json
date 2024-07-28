@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Array/螺旋矩阵/螺旋矩阵.md",
+                "file": "Linkedlist/单链表操作.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Array/螺旋矩阵/螺旋矩阵.md",
+                "file": "Linkedlist/单链表操作.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Array/螺旋矩阵/螺旋矩阵.md",
+                "file": "Linkedlist/单链表操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Array/螺旋矩阵/螺旋矩阵.md"
+                "file": "Linkedlist/单链表操作.md"
               }
             }
           }
@@ -163,12 +163,14 @@
   },
   "active": "127769feec03f1d7",
   "lastOpenFiles": [
-    "Array/螺旋矩阵/螺旋矩阵II.png",
+    "Array/滑动窗口/滑动窗口.md",
+    "Linkedlist/单链表操作.md",
+    "Linkedlist/单链表操作",
     "Array/螺旋矩阵/螺旋矩阵.md",
+    "Array/螺旋矩阵/螺旋矩阵II.png",
     "Excalidraw/Drawing 2024-07-14 03.11.55.excalidraw.md",
     "Excalidraw",
     "Array/螺旋矩阵/59.螺旋矩阵-ii.go",
-    "Array/滑动窗口/滑动窗口.md",
     "595.大的国家.go",
     "Excalidraw/Drawing 2024-07-06 13.23.47.excalidraw.md",
     "Array/螺旋矩阵",
@@ -179,7 +181,6 @@
     "Array/二分查找/二分查找.md",
     "Array/双指针/双指针.md",
     "Array/滑动窗口",
-    "__debug_bin581705598.exe",
     "Array/二分查找.md",
     "Array/二分查找.canvas",
     "Pasted image 20240706134657.png",
